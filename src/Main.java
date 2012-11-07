@@ -8,6 +8,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Houssainy h = new Houssainy();
 		HoussainyMaster ho = new HoussainyMaster();
+		String s = new String();
 	}
 
 }
