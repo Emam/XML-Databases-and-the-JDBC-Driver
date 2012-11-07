@@ -9,6 +9,7 @@ public class Main {
 		Houssainy h = new Houssainy();
 		HoussainyMaster ho = new HoussainyMaster();
 		String s = new String();
+		ahoGalasaKeda lol = new ahoGalasaKeda();
 	}
 
 }
